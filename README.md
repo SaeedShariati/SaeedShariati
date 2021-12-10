@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaeedShariati
 - 👀 I’m interested in Mathematics and web development.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Web applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
